@@ -4,7 +4,7 @@ package HelloWorld
  * Created by João on 26/11/2016.
  */
 /**
- * Declaramos uma função ao nível do pacote HelloWorld.main, a qual retorna Unit e recebe
+ * Declaramos uma função ao nível do pacote HelloWorld, a qual retorna Unit e recebe
  * um Array the Strings como parametro. Os pontos e virgula são opcionais.
  */
 
