@@ -2,10 +2,11 @@
  * Created by João on 26/11/2016.
  */
 /**
- * We declare a package-level function main which returns Unit and takes
- * an Array of strings as a parameter. Note that semicolons are optional.
+ * Declaramos uma função ao nível do pacote main, a qual retorna Unit e recebe
+ * um Array the Strings como parametro. Os pontos e virgula são opcionais.
  */
 
 fun main(args: Array<String>) {
+    //comentário
     println("Hello, world!")
 }
